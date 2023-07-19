@@ -1,44 +1,18 @@
 {
   "AB": {
     "A": {
-      "U": "https://www.rollsun.com/87672329",
-      "onoff": 1,
+      "U": "1",
+      "onoff": 0,
       "isios": 0,
       "iosU": "1",
       "Area": [
         "HK"
       ],
       "Event": [
-        "dailyReward",
-        "enterGame",
-        "firstrecharge",
-        "google",
-        "login",
-        "logout",
-        "recharge",
-        "rechargeClick",
-        "register",
-        "registerClick",
-        "withdrawClick",
-        "withdrawOrderSuccess",
-        "rechargeAllMoney",
-        "withdrawAllMoney"
+        "1"
       ],
       "ID": [
-        "iofkdy",
-        "wknmb7",
-        "w0i1s9",
-        "dznd62",
-        "iraonp",
-        "9npi41",
-        "cic1iw",
-        "3kwn8g",
-        "64uf1n",
-        "bx18x8",
-        "d8qy1e",
-        "al6n4r",
-        "3hsash",
-        "j572gu"
+        "1"
       ]
     }
   }
